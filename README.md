@@ -23,3 +23,7 @@ Welcome to the Personalized Chatbot project! This repository contains the code a
 **LangChain:** A framework for developing applications with large language models.
 
 **Retrieval-Augmented Generation (RAG):** Combines retrieval of relevant documents with generative AI for more accurate and context-aware responses.
+
+## Installation
+pip install -r requirements.txt
+
